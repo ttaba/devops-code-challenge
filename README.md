@@ -13,16 +13,15 @@ Fork this repo as a base. You may change any code in this repository to suit the
 * All the steps needed to repeat your deployment process
 * URLs to the your deployed frontend.
 * -Create EC2 instance t2.micro
--Clone the github repo on the server
-- Make changes in config file of frontend and backend 
--Download docker engine on the server
--Created dockerfile for backend and frontend
--Created images from dockerfile for frontend and backend
--Created docker containers from the images for frontend and backend
--Frontend URL: http://50.16.182.88:3000/
--Backend URL: http://50.16.182.88:8080/
-
-
+*  -Clone the github repo on the server
+*  - Make changes in config file of frontend and backend 
+*  Download docker engine on the server
+*  Created dockerfile for backend and frontend
+*  Created images from dockerfile for frontend and backend
+*  Created docker containers from the images for frontend and backend
+*  Frontend URL: http://50.16.182.88:3000/
+*  Backend URL: http://50.16.182.88:8080/
+*  
 # Evaluation
 You will be evaluated on the ease to replicate your infrastructure. This is a combination of quality of the instructions, as well as any scripts to automate the overall setup process.
 
