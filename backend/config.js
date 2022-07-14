@@ -1,3 +1,3 @@
 module.exports = {
-    CORS_ORIGIN: 'http://localhost:3000'
+    CORS_ORIGIN: 'http://50.16.182.88:3000'
 }
